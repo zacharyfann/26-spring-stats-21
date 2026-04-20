@@ -4,3 +4,6 @@ Lecture 03 ipynb basics: https://youtu.be/B970bYRQfz8
 Lecture 04 data types: https://youtu.be/VEqoPzBQb8w
 Lecture 05 functions and scope: https://youtu.be/XCIloyPWGtI
 Lecture 06 flow control and lists: https://youtu.be/avSfYAaZVdA
+Lecture 07 Lists part 2 and strings: https://youtu.be/ZWPAvt1wluo
+Lecture 08 Dictionaries: https://youtu.be/KfMFVYPNbuU
+Lecture 09 Tuples: https://youtu.be/aE4fJURNLsE
