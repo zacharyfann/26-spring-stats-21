@@ -7,3 +7,10 @@ Lecture 06 flow control and lists: https://youtu.be/avSfYAaZVdA
 Lecture 07 Lists part 2 and strings: https://youtu.be/ZWPAvt1wluo
 Lecture 08 Dictionaries: https://youtu.be/KfMFVYPNbuU
 Lecture 09 Tuples: https://youtu.be/aE4fJURNLsE
+Lecture 10 Working with files: https://youtu.be/MO0SFLpPMfo
+Lecture 11 Numpy Part 1: https://youtu.be/8DucP3Q4C2M
+Lecture 12 Numpy Part 2: https://youtu.be/hSAJXPZRbUw
+Lecture 13 Pandas Basics: https://youtu.be/IAf8aIKyYtI
+Lecture 14 Pandas Index: https://youtu.be/HWyrDA9S4x0 
+Lecture 15 Pandas Pivot and Group by: https://youtu.be/eY5I-mYxTFo
+Lecture 16 Polars: https://youtu.be/hjDCUPZubVc
